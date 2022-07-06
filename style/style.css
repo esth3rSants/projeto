@@ -22,6 +22,7 @@ h1,
 h2 {
   letter-spacing: 4px;
   /*colocar efeitos nas letras*/
+  color: #fff;
 }
 
 .social-media {
